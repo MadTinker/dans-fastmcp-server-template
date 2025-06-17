@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/danedens-dans-fastmcp-server-template-badge.png)](https://mseep.ai/app/danedens-dans-fastmcp-server-template)
+
 # FastMCP Server Template
 
 A FastMCP Server Template for the [Swarmonomicon](https://github.com/DanEdens/madness_interactive/tree/main/projects/common/Swarmonomicon) project. etc
